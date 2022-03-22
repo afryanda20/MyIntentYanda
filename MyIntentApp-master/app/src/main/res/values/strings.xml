@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">move activity</string>
+    <string name="halaman_move_activity">halaman move activity</string>
+    <string name="move_with_data">move with data</string>
+    <string name="data_received">data received</string>
+    <string name="move_with_object">move with object</string>
+    <string name="object_received">object received</string>
+</resources>
